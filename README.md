@@ -16,4 +16,4 @@ The link to the GitHub repo is:   https://github.com/Vinyldude8896/Artist_Music_
 The link to the deployed URL is:  https://vinyldude8896.github.io/Artist_Music_Tour/ 
 
 When the page is opened, it appears like this:
-![alt_tag](https://github.com/Vinyldude8896/Artist_Music_Tour/blob/develop/assets/images/pageimage.png)
+![alt_tag](https://github.com/Vinyldude8896/Artist_Music_Tour/blob/develop/assets/images/pageimage.png) 
