@@ -11,9 +11,9 @@ In order to achieve these requirements, we needed to ensure the following was co
 
 ![alt_tag](https://github.com/Vinyldude8896/Artist_Music_Tour/blob/develop/assets/images/Requirement.png)
 
-The link to the GitHub repo is:   https://github.com/Vinyldude8896/Artist_Music_Tour 
+The link to the GitHub repo is:   https://github.com/ksknight81/Artist_Music_Tour 
 
-The link to the deployed URL is:  https://vinyldude8896.github.io/Artist_Music_Tour/ 
+The link to the deployed URL is:  https://ksknight81.github.io/Artist_Music_Tour/ 
 
 When the page is opened, it appears like this:
 ![alt_tag](https://github.com/Vinyldude8896/Artist_Music_Tour/blob/develop/assets/images/pageimage.png) 
