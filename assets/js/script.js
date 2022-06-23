@@ -13,7 +13,7 @@ let artistAmazonSearch = "";
 // songkick APi Keys
 var songkickAPIKey = "io09K9l3ebJxmxe2";
 var youtubeKey = "AIzaSyAVipUFCUajMgvasF6xv_p18pu4uLXmhcE";
-// var youtubeKey2 = "AIzaSyDeq0kG7KnVPtEpNdA7e3FTalceIrNWU2o";
+ var youtubeKey2 = "AIzaSyDeq0kG7KnVPtEpNdA7e3FTalceIrNWU2o";
 
 // function to get artist name from input and split and reformat to last name, first name
 var getArtistName = function(event) {
@@ -167,7 +167,7 @@ var getVideos = function(searchVideos) { //searchVideos
     if (!searchVideos) {
         return
     } else {
-        var url = `https://www.googleapis.com/youtube/v3/search?part=snippet&key=${youtubeKey}&q=${searchVideos}&maxResults=3`;
+        var url = `https://www.googleapis.com/youtube/v3/search?part=snippet&key=${youtubeKey2}&q=${searchVideos}&maxResults=3`;
         fetch(url).then(function(response) {
             if (response.ok) {
                 response.json().then(function(data) {
